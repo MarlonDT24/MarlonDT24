@@ -24,103 +24,98 @@ I stay updated with the latest tech trends, new tools, and updates that can impr
 
 Looking for `scalable projects` where I can contribute my `analytical vision` and passion for `UX`.
 
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marlon-ts-982a17305) 
+<br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+
 
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
+    <img src="https://skillicons.dev/icons?i=js,ts,php,java,python" />
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,prisma" />
   </kbd>
-   <kbd>
-    <kbd>Mobile</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-  </kbd>
+   <br>
+  <br>
   <kbd>
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,angular,vue,vite,astro,html,css" />
   </kbd>
   <kbd>
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />
   </kbd>
   <br>
   <br>
-  <kbd>
-    <kbd>Data Science & AI</kbd>
+   <kbd>
+    <kbd>Mobile</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  </kbd>
- 
+      <img src="https://skillicons.dev/icons?i=flutter,kotlin" />
+      <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
+  </kbd> 
   <kbd>
     <kbd>System, Networking & Deployment</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+     <img src="https://skillicons.dev/icons?i=vercel,githubactions,aws" />
+    <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   </kbd>
   <kbd>
     <kbd>Terminal Scripts</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+     <img src="https://skillicons.dev/icons?i=git,powershell,bash" />
   </kbd>
+   <br>
+  <br>
   <kbd>
     <kbd>Tools</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  </kbd>
-   <kbd>
-    <kbd>Game Development</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+     <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,visualstudio,eclipse,postman,figma,notion" />
   </kbd>
 </p>
 
-# 📊 GitHub Stats:
+# <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> Popular Projects:
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="top" style="padding: 10px;">
+        <a href="https://github.com/MarlonDT24/icam-memory">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarlonDT24&repo=icam-memory&theme=onedark" />
+        </a>
+      </td>
+      <td align="center" valign="top" style="padding: 10px;">
+        <a href="https://github.com/MarlonDT24/capifriends-social-network">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarlonDT24&repo=capifriends-social-network&theme=onedark" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding: 20px;">
+        <a href="https://github.com/MarlonDT24?tab=repositories">
+          <img src="https://img.shields.io/badge/📂%20View%20All%20Projects-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white&color=58A6FF&labelColor=1e1e1e&width=200&height=50" alt="All Projects" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+# <img width="35px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MarlonDT24&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarlonDT24&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonDT24&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
