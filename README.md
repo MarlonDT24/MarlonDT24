@@ -89,11 +89,13 @@ Looking for `scalable projects` where I can contribute my `analytical vision` an
   </kbd>
 </p>
 
+<br>
+
 # <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> Popular Projects:
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center" valign="top" style="padding: 10px;">
+       <td align="center" valign="top" style="padding: 10px;">
         <a href="https://github.com/MarlonDT24/icam-memory">
           <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MarlonDT24&repo=icam-memory&theme=onedark" />
         </a>
@@ -123,10 +125,39 @@ Looking for `scalable projects` where I can contribute my `analytical vision` an
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=MarlonDT24&icon=1&color=3)](https://visitcount.itsvg.in)
+# <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px"> Contact Me :
+<p>
+<img width="450" align="right" alt="System" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBvc3VkYW5qd2xpa3phMXl2YThncTBrcG1kdHdpamI3MXhvdmZpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8crY8XFyzOb0EpK8LG/giphy.gif">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Don't hesitate to contact us if you want to talk about technology, job opportunities, collaborate on projects, or just have a friendly chat about development! 💬
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=torresmarlon40@gmail.com&su=">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/marlon-torres-982a17305">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<p align="center">
+  Made with 🔥 by a Full Stack Developer who thinks big
+  <br />
+  <br />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
